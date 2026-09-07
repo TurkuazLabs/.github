@@ -69,6 +69,6 @@ Building useful software and exploring new technologies.
 
 https://turkuazlabs.com
 
-info@turkuazlabs.com — genel iletisim
-support@turkuazlabs.com — teknik destek
-security@turkuazlabs.com — guvenlik bildirimleri
+- info@turkuazlabs.com — genel iletisim
+- support@turkuazlabs.com — teknik destek
+- security@turkuazlabs.com — guvenlik bildirimleri
