@@ -1,0 +1,12 @@
+# 📄 Dosya Yolu: /TurkuazLabs/.github/.github/ISSUE_TEMPLATE/config.yml
+# 📌 Amac: Turkuaz Labs organizasyonundaki varsayilan issue davranisini tanimlar
+# 📌 Modul - YAML
+# Version: 1.0.0
+# Aciklama: Hazir issue formlarinin yaninda gerektiginde serbest issue acilmasina izin verir
+# Bagimli Oldugu Katman: Tool
+
+blank_issues_enabled: true
+contact_links:
+  - name: "Turkuaz Labs"
+    url: "https://turkuazlabs.com"
+    about: "Genel bilgi ve resmi Turkuaz Labs baglantilari / General information and official links"
