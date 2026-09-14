@@ -1,17 +1,77 @@
 # Turkuaz Labs
 
-**Software. Tools. Ideas.**
+**Software. Tools. Ideas.**  
+**Yazilim. Araclar. Fikirler.**
 
-Turkuaz Labs is an independent software and technology organization focused on
-building useful, reliable and accessible digital products.
+[Turkce](#turkce) | [English](#english)
 
-We explore modern software technologies, developer tools, desktop applications,
-browser technologies, automation and experimental systems.
+---
 
-Our goal is simple: create practical software, learn through development and
-share useful technology with the community.
+## Turkce
 
-## What We Focus On
+Turkuaz Labs; kullanisli, guvenilir, performansli ve uzun omurlu dijital urunler gelistirmeye odaklanan bagimsiz bir yazilim ve teknoloji organizasyonudur.
+
+Modern yazilim teknolojilerini arastiriyor; acik kaynak projeler, masaustu uygulamalari, gelistirici araclari, tarayici teknolojileri, otomasyon sistemleri ve deneysel yazilimlar gelistiriyoruz.
+
+Amacimiz basit: gercek problemlere cozum ureten yazilimlar gelistirmek, gelistirme surecinde ogrenmek ve faydali teknolojileri toplulukla paylasmak.
+
+### Odak Alanlarimiz
+
+- Acik kaynak yazilim
+- Gelistirici araclari
+- Masaustu uygulamalari
+- Tarayici teknolojileri
+- Rust ve sistem programlama
+- Otomasyon
+- Web teknolojileri
+- Deneysel yazilim
+- Arastirma ve prototipleme
+
+### Projeler
+
+#### Turkuaz Telefon Rehberi
+
+Modern, yerel veri odakli ve platformlar arasi bir telefon rehberi uygulamasi.
+
+[GitHub Repository](https://github.com/TurkuazLabs/turkuaz-telefon-rehberi)
+
+> Yeni Turkuaz Labs projeleri gelistirme surecindedir.
+
+### Ilkelerimiz
+
+Yazilim gelistirirken su temel ilkelere onem veriyoruz:
+
+- Sadelik
+- Guvenilirlik
+- Gizlilik
+- Performans
+- Bakim kolayligi
+- Acik gelistirme
+- Uzun vadeli kullanilabilirlik
+
+### Resmi Baglantilar
+
+- Website: https://turkuazlabs.com
+- GitHub: https://github.com/TurkuazLabs
+- Support: https://buymeacoffee.com/turkuazlabs
+
+### Iletisim
+
+- Genel iletisim: **info@turkuazlabs.com**
+- Teknik destek: **support@turkuazlabs.com**
+- Guvenlik bildirimleri: **security@turkuazlabs.com**
+
+---
+
+## English
+
+Turkuaz Labs is an independent software and technology organization focused on building useful, reliable, high-performance and long-lasting digital products.
+
+We explore modern software technologies and build open-source projects, desktop applications, developer tools, browser technologies, automation systems and experimental software.
+
+Our goal is simple: build practical software that solves real problems, learn through development and share useful technology with the community.
+
+### What We Focus On
 
 - Open-source software
 - Developer tools
@@ -23,9 +83,19 @@ share useful technology with the community.
 - Experimental software
 - Research and prototyping
 
-## Our Principles
+### Projects
 
-We aim to build software with a focus on:
+#### Turkuaz Telefon Rehberi
+
+A modern, local-data-first and cross-platform contact management application.
+
+[GitHub Repository](https://github.com/TurkuazLabs/turkuaz-telefon-rehberi)
+
+> More Turkuaz Labs projects are currently in development.
+
+### Our Principles
+
+We build software with a focus on:
 
 - Simplicity
 - Reliability
@@ -35,40 +105,19 @@ We aim to build software with a focus on:
 - Open development
 - Long-term usability
 
-## Official Links
+### Official Links
 
 - Website: https://turkuazlabs.com
 - GitHub: https://github.com/TurkuazLabs
-- Support Turkuaz Labs: https://buymeacoffee.com/turkuazlabs
+- Support: https://buymeacoffee.com/turkuazlabs
 
-## Contact
+### Contact
 
-### General
-
-For general questions, collaboration and other inquiries:
-
-**info@turkuazlabs.com**
-
-### Support
-
-For technical support and software-related questions:
-
-**support@turkuazlabs.com**
-
-### Security
-
-For security issues and responsible vulnerability reports:
-
-**security@turkuazlabs.com**
+- General inquiries: **info@turkuazlabs.com**
+- Technical support: **support@turkuazlabs.com**
+- Security reports: **security@turkuazlabs.com**
 
 ---
 
-**Turkuaz Labs**
-
+**Turkuaz Labs**  
 Building useful software and exploring new technologies.
-
-https://turkuazlabs.com
-
-- info@turkuazlabs.com — genel iletisim
-- support@turkuazlabs.com — teknik destek
-- security@turkuazlabs.com — guvenlik bildirimleri
