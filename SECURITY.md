@@ -19,7 +19,7 @@ Bildirimde mumkunse sunlari belirtin:
 - Etkilenen proje ve surum
 - Sorunun kisa aciklamasi
 - Tekrar uretme adimlari
-- Olası etki
+- Olasi etki
 - Varsa ornek, log veya ekran goruntusu
 
 Hassas bilgileri, parolalari, API anahtarlarini veya gercek kullanici verilerini herkese acik alanlarda paylasmayin.
