@@ -18,7 +18,7 @@ Katki gondermeden once:
 - Buyuk degisikliklerde once bir issue acarak yaklasimi tartisin.
 - Degisikligi tek bir amaca odakli tutun.
 - Gereksiz formatlama veya ilgisiz refactor eklemeyin.
-- Mümkun olan projelerde testleri calistirin.
+- Mumkun olan projelerde testleri calistirin.
 - Yeni davranis veya ozellik ekliyorsaniz dokumantasyonu guncelleyin.
 
 ### Branch ve Commit
