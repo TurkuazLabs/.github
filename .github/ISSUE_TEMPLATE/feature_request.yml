@@ -1,0 +1,52 @@
+# 📄 Dosya Yolu: /TurkuazLabs/.github/.github/ISSUE_TEMPLATE/feature_request.yml
+# 📌 Amac: Turkuaz Labs projeleri icin ortak ozellik talebi formunu tanimlar
+# 📌 Modul - YAML
+# Version: 1.0.0
+# Aciklama: Yeni ozellik ve iyilestirme taleplerini standart bicimde toplar
+# Bagimli Oldugu Katman: Tool
+
+name: "Ozellik Talebi / Feature Request"
+description: "Yeni bir ozellik veya iyilestirme onerisi gonderin / Suggest a feature or improvement"
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Problem veya Ihtiyac / Problem or Need"
+      description: "Cozmek istediginiz problemi veya ihtiyaci aciklayin."
+      placeholder: "Bu ozellik hangi problemi cozuyor?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: "Onerilen Cozum / Proposed Solution"
+      description: "Beklediginiz davranisi veya cozum fikrini aciklayin."
+      placeholder: "Uygulamanin nasil davranmasini bekliyorsunuz?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Alternatifler / Alternatives"
+      description: "Dusundugunuz alternatif cozumler varsa belirtin."
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: "Ek Bilgi / Additional Context"
+      description: "Ornek, ekran goruntusu veya ilgili baglanti ekleyebilirsiniz."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "Kontrol / Checks"
+      options:
+        - label: "Mevcut issue ve talepleri kontrol ettim / I checked existing issues and requests."
+          required: true
