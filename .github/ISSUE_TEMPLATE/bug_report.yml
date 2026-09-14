@@ -1,0 +1,74 @@
+# 📄 Dosya Yolu: /TurkuazLabs/.github/.github/ISSUE_TEMPLATE/bug_report.yml
+# 📌 Amac: Turkuaz Labs projeleri icin ortak hata bildirim formunu tanimlar
+# 📌 Modul - YAML
+# Version: 1.0.0
+# Aciklama: Hata raporlarinda gerekli teknik bilgilerin standart toplanmasini saglar
+# Bagimli Oldugu Katman: Tool
+
+name: "Hata Bildirimi / Bug Report"
+description: "Tekrarlanabilir bir yazilim hatasini bildirin / Report a reproducible software problem"
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Bildiriminiz icin tesekkurler. Guvenlik aciklarini public issue olarak gondermeyin.
+        Thank you for the report. Do not submit security vulnerabilities as public issues.
+
+  - type: input
+    id: version
+    attributes:
+      label: "Surum / Version"
+      description: "Hatayi gordugunuz uygulama veya paket surumu."
+      placeholder: "v1.2.3"
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: "Ortam / Environment"
+      description: "Isletim sistemi, tarayici, cihaz veya ilgili runtime bilgisi."
+      placeholder: "Windows 11, Firefox 153, Android 16..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Sorun / Problem"
+      description: "Ne oldu? Beklenen davranis neydi?"
+      placeholder: "Mevcut davranisi ve beklenen sonucu aciklayin."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: "Tekrar Uretme Adimlari / Reproduction Steps"
+      description: "Sorunu tekrar olusturmak icin izlenecek adimlari siralayin."
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Loglar / Logs"
+      description: "Varsa ilgili log, hata mesaji veya ekran goruntusunu ekleyin. Hassas veri eklemeyin."
+      render: shell
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "Kontrol / Checks"
+      options:
+        - label: "Mevcut issue'lari kontrol ettim / I checked existing issues."
+          required: true
+        - label: "Bu bildirim parola, API anahtari veya ozel veri icermiyor / This report contains no secrets or private data."
+          required: true
