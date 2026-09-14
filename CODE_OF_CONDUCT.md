@@ -1,5 +1,5 @@
 # 📄 Dosya Yolu: /TurkuazLabs/.github/CODE_OF_CONDUCT.md
-# 📌 Amac: Turkuaz Labs topluluk etkileşimleri icin ortak davranis kurallarini tanimlar
+# 📌 Amac: Turkuaz Labs topluluk etkilesimleri icin ortak davranis kurallarini tanimlar
 # 📌 Modul - Markdown
 # Version: 1.0.0
 # Aciklama: Saygili, yapici ve guvenli iletisim icin temel topluluk standartlarini belirler
