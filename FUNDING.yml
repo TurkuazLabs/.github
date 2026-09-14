@@ -1,0 +1,9 @@
+# 📄 Dosya Yolu: /TurkuazLabs/.github/FUNDING.yml
+# 📌 Amac: Turkuaz Labs projeleri icin ortak destek baglantisini tanimlar
+# 📌 Modul - YAML
+# Version: 1.0.0
+# Aciklama: GitHub Sponsor alaninda Turkuaz Labs destek baglantisini gosterir
+# Bagimli Oldugu Katman: Tool
+
+custom:
+  - "https://buymeacoffee.com/turkuazlabs"
