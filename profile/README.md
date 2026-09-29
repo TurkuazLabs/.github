@@ -1,61 +1,67 @@
+# 📄 Dosya Yolu: TurkuazLabs/.github/profile/README.md
+# 📌 Amac: Turkuaz Labs Community ve Open Source organizasyon profilini tanimlamak
+# 📌 Modul - Markdown
+# Version: 2.0.0
+# Aciklama: Community odagi, organizasyon sinirlari ve aktif public projeleri aciklar
+# Bagimli Oldugu Katman: View
+
 # Turkuaz Labs
 
-**Software. Tools. Ideas.**  
-**Yazilim. Araclar. Fikirler.**
+**Community. Open Source. Developer Technology.**
 
-[Turkce](#turkce) | [English](#english)
+Turkuaz Labs, Turkuaz ekosisteminin Community ve acik kaynak gelistirme organizasyonudur.
 
----
+Buradaki temel hedef; kullanilabilir Community surumleri, acik kaynak araclar, public SDK/contract katmanlari ve gelistirici teknolojileri uretmektir.
 
-## Turkce
+## Organizasyon Modeli
 
-Turkuaz Labs; kullanisli, guvenilir, performansli ve uzun omurlu dijital urunler gelistirmeye odaklanan bagimsiz bir yazilim ve teknoloji organizasyonudur.
+Turkuaz ekosistemi uc ana organizasyona ayrilir:
 
-Modern yazilim teknolojilerini arastiriyor; acik kaynak projeler, masaustu uygulamalari, gelistirici araclari, tarayici teknolojileri, otomasyon sistemleri ve deneysel yazilimlar gelistiriyoruz.
+- **TurkuazLabs** - Community, open source, public SDK ve developer tooling
+- **TurkuazSoft** - Pro, Business, Enterprise ve ticari/private yazilim
+- **LevelUpGT** - Games & Game Technology
 
-Amacimiz basit: gercek problemlere cozum ureten yazilimlar gelistirmek, gelistirme surecinde ogrenmek ve faydali teknolojileri toplulukla paylasmak.
+Community kaynak kodu ile private ticari kod ayni repository icinde karistirilmaz.
 
-### Odak Alanlarimiz
+## Public Community Projeleri
 
-- Acik kaynak yazilim
-- Gelistirici araclari
-- Masaustu uygulamalari
-- Tarayici teknolojileri
-- Rust ve sistem programlama
-- Otomasyon
-- Web teknolojileri
-- Deneysel yazilim
-- Arastirma ve prototipleme
+- [TurkuazInstaller](https://github.com/TurkuazLabs/TurkuazInstaller)
+- [UniZip](https://github.com/TurkuazLabs/UniZip)
+- [JExporter](https://github.com/TurkuazLabs/JExporter)
+- [Turkuaz PhoneBook](https://github.com/TurkuazLabs/Turkuaz-PhoneBook)
+- [PixelTone](https://github.com/TurkuazLabs/PixelTone)
 
-### Projeler
+Yeni Community projeleri edition audit ve lisans kontrolu tamamlandikca public hale getirilecektir.
 
-#### Turkuaz Telefon Rehberi
+## Community / Pro Ilkesi
 
-Modern, yerel veri odakli ve platformlar arasi bir telefon rehberi uygulamasi.
+Community surumleri gercek kullanima uygun olacak sekilde korunur. Guvenlik, veri butunlugu, update dogrulamasi ve temel urun guvenligi sirf Pro ozelligi yapmak icin kisitlanmaz.
 
-[GitHub Repository](https://github.com/TurkuazLabs/turkuaz-telefon-rehberi)
+Pro ve Business tarafinda ise private moduller, merkezi yonetim, ticari servisler, private feeds, entitlement policy, enterprise deployment ve benzeri ek yetenekler bulunabilir.
 
-> Yeni Turkuaz Labs projeleri gelistirme surecindedir.
+Ayrintili politika:
 
-### Ilkelerimiz
+- [Organization Model](../ORGANIZATION_MODEL.md)
+- [Migration Plan](../MIGRATION_PLAN.md)
 
-Yazilim gelistirirken su temel ilkelere onem veriyoruz:
+## Gelistirme Ilkeleri
 
-- Sadelik
-- Guvenilirlik
-- Gizlilik
-- Performans
-- Bakim kolayligi
-- Acik gelistirme
-- Uzun vadeli kullanilabilirlik
+- Controller -> Service -> Repo/Model -> Tool -> View -> Language
+- Config degerleri merkezi tutulur
+- Secret, token ve signing key source control icine yazilmaz
+- Community build, Pro repository'ye bagimli olmaz
+- Public contract ile private implementation birbirinden ayrilir
+- Surumleme: Patch = bugfix, Minor = module, Major = architecture
 
-### Resmi Baglantilar
+## Resmi Baglantilar
 
 - Website: https://turkuazlabs.com
-- GitHub: https://github.com/TurkuazLabs
+- GitHub Community: https://github.com/TurkuazLabs
+- Commercial Software: https://github.com/TurkuazSoft
+- Games & Game Technology: https://github.com/LevelUpGT
 - Support: https://buymeacoffee.com/turkuazlabs
 
-### Iletisim
+## Iletisim
 
 - Genel iletisim: **info@turkuazlabs.com**
 - Teknik destek: **support@turkuazlabs.com**
@@ -63,61 +69,5 @@ Yazilim gelistirirken su temel ilkelere onem veriyoruz:
 
 ---
 
-## English
-
-Turkuaz Labs is an independent software and technology organization focused on building useful, reliable, high-performance and long-lasting digital products.
-
-We explore modern software technologies and build open-source projects, desktop applications, developer tools, browser technologies, automation systems and experimental software.
-
-Our goal is simple: build practical software that solves real problems, learn through development and share useful technology with the community.
-
-### What We Focus On
-
-- Open-source software
-- Developer tools
-- Desktop applications
-- Browser technologies
-- Rust and systems programming
-- Automation
-- Web technologies
-- Experimental software
-- Research and prototyping
-
-### Projects
-
-#### Turkuaz Telefon Rehberi
-
-A modern, local-data-first and cross-platform contact management application.
-
-[GitHub Repository](https://github.com/TurkuazLabs/turkuaz-telefon-rehberi)
-
-> More Turkuaz Labs projects are currently in development.
-
-### Our Principles
-
-We build software with a focus on:
-
-- Simplicity
-- Reliability
-- Privacy
-- Performance
-- Maintainability
-- Open development
-- Long-term usability
-
-### Official Links
-
-- Website: https://turkuazlabs.com
-- GitHub: https://github.com/TurkuazLabs
-- Support: https://buymeacoffee.com/turkuazlabs
-
-### Contact
-
-- General inquiries: **info@turkuazlabs.com**
-- Technical support: **support@turkuazlabs.com**
-- Security reports: **security@turkuazlabs.com**
-
----
-
 **Turkuaz Labs**  
-Building useful software and exploring new technologies.
+Community and open-source technology.
