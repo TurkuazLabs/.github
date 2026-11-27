@@ -1,9 +1,11 @@
-# 📄 Dosya Yolu: TurkuazLabs/.github/profile/README.md
-# 📌 Amac: Turkuaz Labs Community ve Open Source organizasyon profilini tanimlamak
-# 📌 Modul - Markdown
-# Version: 2.0.0
-# Aciklama: Community odagi, organizasyon sinirlari ve aktif public projeleri aciklar
-# Bagimli Oldugu Katman: View
+<!--
+Dosya Yolu: REPO_ROOT/profile/README.md
+Amac: Turkuaz Labs Community ve Open Source organizasyon profilini tanimlamak
+Modul - Markdown
+Version: 2.0.0
+Aciklama: Community odagi, organizasyon sinirlari ve aktif public projeleri aciklar
+Bagimli Oldugu Katman: View
+-->
 
 # Turkuaz Labs
 
